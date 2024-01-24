@@ -16,33 +16,12 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
 ## Screenshots
 
 <!-- All Screenshots in the Same Row -->
-<div style="display:flex; justify-content:space-around;">
-
-  <!-- Screenshot 1 -->
-  <div>
-    <img src="./ScreenShots/2.png" alt="Todo List View" width="30%">
-    <p align="center"><em>Todo List View</em></p>
-  </div>
-
-  <!-- Screenshot 2 -->
-  <div>
-    <img src="./ScreenShots/3.png" alt="Swipe to Delete" width="30%">
-    <p align="center"><em>Swipe to Delete</em></p>
-  </div>
-
-  <!-- Screenshot 3 -->
-  <div>
-    <img src="./ScreenShots/4.png" alt="Edit Mode" width="30%">
-    <p align="center"><em>Edit Mode</em></p>
-  </div>
-
-  <!-- Screenshot 4 -->
-  <div>
-    <img src="./ScreenShots/5.png" alt="Add New Todo Item" width="30%">
-    <p align="center"><em>Add New Todo Item</em></p>
-  </div>
-
-</div>
+<p align="left">
+  <img src="./ScreenShots/2.png" alt="Todo List View" width="200" title="Todo List View">
+  <img src="./ScreenShots/3.png" alt="Swipe to Delete" width="200" title="Swipe to Delete">
+  <img src="./ScreenShots/4.png" alt="Edit Mode" width="200" title="Edit Mode">
+  <img src="./ScreenShots/5.png" alt="Add New Todo Item"  width="200" title="Add New Todo Item">
+</p>
 <!-- End of All Screenshots in the Same Row -->
 
 ## Video Demo
@@ -52,7 +31,7 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
   Your browser does not support the video tag.
 </video>
 
-*The video above demonstrates the animations in the todo list view.*
+_The video above demonstrates the animations in the todo list view._
 
 ## Getting Started
 
@@ -66,4 +45,41 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/decodevM/TodoList.git
+    git clone https://github.com/decodevM/TodoList.git
+```
+
+## Updating the project
+
+To update the project to the latest version run the following command
+
+```bash
+    git pull origin main
+```
+
+## Contributing
+
+the project is open for contributions, feel free to open a pull request or an issue if you find any bug or if you want
+to add a new feature to the project.
+However, the main branch is protected so you have to open a pull request to contribute.
+To contribute to the project you have to follow the following steps:
+
+* you can use the following command to create a new branch
+
+```bash
+    git switch -c <your-branch-name>
+```
+
+* then you have to commit your changes to your branch
+
+```bash
+    git add .
+    git commit -m "your commit message"
+```
+
+* then you have to push your branch to the remote repository
+
+```bash
+    git push -u origin <your-branch-name>
+```
+
+then you have to open a pull request to the main branch and wait for it to be reviewed and merged.
