@@ -15,34 +15,49 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
 
 ## Screenshots
 
-### 1. Todo List View
+<!-- All Screenshots in the Same Row -->
+<div style="display:flex; justify-content:space-between;">
 
-![Todo List View](./ScreenShots/2.png)
-*This screenshot shows the list of todo items.*
+  <!-- Screenshot 1 -->
+  <div>
+    <img src="./ScreenShots/2.png" alt="Todo List View" width="45%">
+    <p align="left"><em>Todo List View</em></p>
+  </div>
 
-### 2. Swipe to Delete
+  <!-- Screenshot 2 -->
+  <div>
+    <img src="./ScreenShots/3.png" alt="Swipe to Delete" width="45%">
+    <p align="left"><em>Swipe to Delete</em></p>
+  </div>
+  
+</div>
+<!-- End of All Screenshots in the Same Row -->
 
-![Swipe to Delete](./ScreenShots/3.png)
-*This screenshot demonstrates the swipe-to-delete functionality.*
+<!-- All Screenshots in the Same Row -->
+<div style="display:flex; justify-content:space-between;">
+  <!-- Screenshot 3 -->
+  <div>
+    <img src="./ScreenShots/4.png" alt="Edit Mode" width="45%">
+    <p align="left"><em>Edit Mode</em></p>
+  </div>
 
-### 3. Edit Mode
+  <!-- Screenshot 4 -->
+  <div>
+    <img src="./ScreenShots/5.png" alt="Add New Todo Item" width="45%">
+    <p align="left"><em>Add New Todo Item</em></p>
+  </div>
 
-![Edit Mode](./ScreenShots/4.png)
-*This screenshot illustrates the edit mode, allowing users to move or delete items.*
-
-### 4. Add New Todo Item
-
-![Add New Todo Item](./ScreenShots/5.png)
-*This screenshot showcases the screen for adding a new todo item.*
+</div>
+<!-- End of All Screenshots in the Same Row -->
 
 ## Video Demo
 
-<video width="100%" height="auto" autoplay loop muted playsinline>
-  <source src="./ScreenShots/1.mp4" type="video/mp4">
+<video width="45%" height="auto" autoplay loop muted playsinline>
+  <source src="./ScreenShots/1.mp4" type="video/mp4" alt="./ScreenShots/0.png">
   Your browser does not support the video tag.
 </video>
 
-*The video above demonstrates the animations in the todo list view.*
+_The video above demonstrates the animations in the todo list view._
 
 ## Getting Started
 
