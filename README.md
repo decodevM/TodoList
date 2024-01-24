@@ -26,10 +26,14 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
 
 ## Video Demo
 
-<video width="50%" height="auto" autoplay loop muted playsinline>
+<!-- <video width="50%" height="auto" autoplay loop muted playsinline>
   <source src="./ScreenShots/1.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
+
+<a href="./ScreenShots/1.mp4">
+  <img src="./ScreenShots/0.png" alt="Video Demo" width="200">
+</a>
 
 _The video above demonstrates the animations in the todo list view._
 
@@ -63,20 +67,20 @@ to add a new feature to the project.
 However, the main branch is protected so you have to open a pull request to contribute.
 To contribute to the project you have to follow the following steps:
 
-* you can use the following command to create a new branch
+- you can use the following command to create a new branch
 
 ```bash
     git switch -c <your-branch-name>
 ```
 
-* then you have to commit your changes to your branch
+- then you have to commit your changes to your branch
 
 ```bash
     git add .
     git commit -m "your commit message"
 ```
 
-* then you have to push your branch to the remote repository
+- then you have to push your branch to the remote repository
 
 ```bash
     git push -u origin <your-branch-name>
