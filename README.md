@@ -31,9 +31,9 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
   Your browser does not support the video tag.
 </video> -->
 
-<a href="./ScreenShots/1.mp4">
-  <img src="./ScreenShots/0.png" alt="Video Demo" width="200">
-</a>
+<p>
+ <img src="./ScreenShots/1.gif" alt="Video Demo" width="200">
+<p>
 
 _The video above demonstrates the animations in the todo list view._
 
