@@ -20,13 +20,13 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
 
   <!-- Screenshot 1 -->
   <div>
-    <img src="./ScreenShots/2.png" alt="Todo List View" width="45%">
+    <img src="./ScreenShots/2.png" alt="Todo List View" width="30%">
     <p align="left"><em>Todo List View</em></p>
   </div>
 
   <!-- Screenshot 2 -->
   <div>
-    <img src="./ScreenShots/3.png" alt="Swipe to Delete" width="45%">
+    <img src="./ScreenShots/3.png" alt="Swipe to Delete" width="30%">
     <p align="left"><em>Swipe to Delete</em></p>
   </div>
   
@@ -37,13 +37,13 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
 <div style="display:flex; justify-content:space-between;">
   <!-- Screenshot 3 -->
   <div>
-    <img src="./ScreenShots/4.png" alt="Edit Mode" width="45%">
+    <img src="./ScreenShots/4.png" alt="Edit Mode" width="30%">
     <p align="left"><em>Edit Mode</em></p>
   </div>
 
   <!-- Screenshot 4 -->
   <div>
-    <img src="./ScreenShots/5.png" alt="Add New Todo Item" width="45%">
+    <img src="./ScreenShots/5.png" alt="Add New Todo Item" width="30%">
     <p align="left"><em>Add New Todo Item</em></p>
   </div>
 
@@ -52,7 +52,7 @@ This is a simple iOS TodoList app developed using SwiftUI and following the MVVM
 
 ## Video Demo
 
-<video width="45%" height="auto" autoplay loop muted playsinline>
+<video width="20%" height="auto" autoplay loop muted playsinline>
   <source src="./ScreenShots/1.mp4" type="video/mp4" alt="./ScreenShots/0.png">
   Your browser does not support the video tag.
 </video>
